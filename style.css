@@ -1,0 +1,32 @@
+body
+{
+    background-color: black;
+    font-family: 'DynaPuff', cursive;
+    font-size: 14px;
+    color:white;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px black;
+border-radius: 10px;
+margin-top: 30px;
+}
+
+
+#btn
+{
+background-color: white;
+}
